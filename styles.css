@@ -109,6 +109,15 @@ button {
   gap: 4px;
 }
 
+.brand-location {
+  color: var(--accent-dark);
+  font-size: 0.78rem;
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: 0.02em;
+  white-space: nowrap;
+}
+
 .brand img,
 .site-footer img {
   height: auto;
